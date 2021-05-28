@@ -1,2 +1,3 @@
 # hello-world
-Discussions and Ideas. Created as a part of an Introduction to GitHub.
+
+This here is an attempt at a branch. This is me blabbering rubbish to make a commit.
